@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import json, re, traceback, shutil, DBase_EthioJobs, send2trash
+import json, re, traceback, shutil, send2trash
 import pandas as pd
 from datetime import datetime
 from collections import deque
